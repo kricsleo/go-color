@@ -1,0 +1,33 @@
+{
+  "name": "color-utils",
+  "version": "1.0.0",
+  "description": "color convert functions",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "keywords": [
+    "color"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.qunhequnhe.com/wujin/color-utils.git"
+  },
+  "author": "wujin",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6",
+    "@babel/preset-typescript": "^7.9.0",
+    "@types/jest": "^25.2.1",
+    "babel-jest": "^26.0.1",
+    "jest": "^26.0.1",
+    "typescript": "^3.8.3"
+  },
+  "files": [
+    "dist/**/*"
+  ]
+}
