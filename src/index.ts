@@ -3,7 +3,7 @@ import hsv2rgb from './hsv2rgb';
 import rgb2hex from './rgb2hex';
 import rgb2hsv from './rgb2hsv';
 
-export default {
+export {
   hex2rgb,
   hsv2rgb,
   rgb2hex,
