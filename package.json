@@ -1,5 +1,5 @@
 {
-  "name": "color-utils",
+  "name": "@qunhe/color-utils",
   "version": "1.0.0",
   "description": "color convert functions",
   "main": "dist/index.js",
