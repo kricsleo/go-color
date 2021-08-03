@@ -1,6 +1,6 @@
 {
-  "name": "@qunhe/color-utils",
-  "version": "1.1.2",
+  "name": "@kricsleo/go-color",
+  "version": "1.0.0",
   "description": "color convert functions",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -13,9 +13,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://gitlab.qunhequnhe.com/wujin/color-utils.git"
+    "url": "git@github.com:kricsleo/go-color.git"
   },
-  "author": "wujin",
+  "author": "kricsleo",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {

@@ -1,11 +1,11 @@
-# color-utils
+# go-color
 
 **hex**, **rgb**和**hsv**颜色转换函数, 在做颜色变换生成衍生色的时候可以使用
 
 ## usage
 
 ```js
-import { hex2rgb, rgb2hsv, hsv2rgb, rgb2hex } from 'color-utils';
+import { hex2rgb, rgb2hsv, hsv2rgb, rgb2hex } from '@kricsleo/go-color';
 
 const color = '#eee';
 const rgb = hex2rgb(color);
